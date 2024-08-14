@@ -8,5 +8,28 @@
     "lot": 2.0,
     "tp": 20.0,
     "sl": 20.0,
-    "weekend": false
+    "weekend": false,
+    "targets": {
+        "default": {
+            "target": 10.0,
+            "maxdd": 10.0,
+            "dailydd": 5.0,
+            "commission": 3.0,
+            "alias": "default"
+        },
+        "ACGMarkets": {
+            "target": 8.0,
+            "maxdd": 10.0,
+            "dailydd": 5.0,
+            "commission": 2.5,
+            "alias": "Alpha Capital Group"
+        },
+        "FTMO": {
+            "target": 10.0,
+            "maxdd": 10.0,
+            "dailydd": 5.0,
+            "commission": 3.0,
+            "alias": "FTMO"
+        }
+    }
 }

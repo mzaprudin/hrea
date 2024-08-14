@@ -1,12 +1,12 @@
 {
-    "tf": "H1",
-    "bars": 10,
-    "atr_tf": "H1",
+    "tf": "M1",
+    "bars": 30,
+    "atr_tf": "M1",
     "atr_period": 14,
     "atr_mul": 1.0,
-    "retrace_mode": "continue",
-    "lot": 1.0,
-    "tp": 100.0,
-    "sl": 100.0,
+    "retrace_mode": "rebound",
+    "lot": 2.0,
+    "tp": 20.0,
+    "sl": 20.0,
     "weekend": false
 }

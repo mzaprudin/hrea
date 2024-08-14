@@ -3,10 +3,10 @@
     "bars": 10,
     "atr_tf": "H1",
     "atr_period": 14,
-    "atr_mul": 1,
+    "atr_mul": 1.0,
     "retrace_mode": "continue",
-    "lot": 1,
-    "tp": 100,
-    "sl": 100,
+    "lot": 1.0,
+    "tp": 100.0,
+    "sl": 100.0,
     "weekend": false
 }

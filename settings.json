@@ -2,7 +2,7 @@
     "tf": "H1",
     "bars": 10,
     "atr_tf": "H1",
-    "atr_period": 15,
+    "atr_period": 14,
     "atr_mul": 1,
     "retrace_mode": "continue",
     "lot": 1,

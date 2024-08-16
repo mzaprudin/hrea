@@ -31,5 +31,11 @@
             "commission": 3.0,
             "alias": "FTMO"
         }
-    }
+    },
+    "rv": {
+        "trade_mode": "reverse",
+        "symbols_to_trade": 5,
+        "subtarget": 50,
+        "lot": 1.0,
+        "weekend": false
 }

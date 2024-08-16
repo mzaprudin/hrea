@@ -6,7 +6,7 @@
     "atr_mul": 1.0,
     "retrace_mode": "continue",
     "lot": 2.0,
-    "tp": 20.0,
+    "tp": 0.0,
     "sl": 20.0,
     "weekend": false,
     "trailing": {

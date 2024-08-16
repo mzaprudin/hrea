@@ -9,6 +9,8 @@
     "tp": 0.0,
     "sl": 20.0,
     "weekend": false,
+    "entry_range": 60,
+    "exit_range": 120,
     "trailing": {
         "trail_use": true,
         "trail_trig": 5.0,

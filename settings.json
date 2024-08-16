@@ -9,6 +9,13 @@
     "tp": 20.0,
     "sl": 20.0,
     "weekend": false,
+    "trailing": {
+        "trail_use": true,
+        "trail_trig": 5.0,
+        "trail_step": 1.0,
+        "trail_dist": 20,
+        "trail_session": "all"
+    },
     "targets": {
         "default": {
             "target": 10.0,

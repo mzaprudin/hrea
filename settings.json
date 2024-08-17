@@ -9,8 +9,8 @@
     "tp": 0.0,
     "sl": 20.0,
     "weekend": false,
-    "entry_range": 60,
-    "exit_range": 120,
+    "entry_range": 30,
+    "exit_range": 600,
     "trailing": {
         "trail_use": true,
         "trail_trig": 5.0,
@@ -44,8 +44,8 @@
     "rv": {
         "trade_mode": "reverse",
         "symbols_to_trade": 5,
-        "subtarget": 50,
-        "lot": 1.0,
+        "subtarget": 10,
+        "lot": 3.0,
         "weekend": false
     }
 }

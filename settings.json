@@ -5,6 +5,7 @@
     "atr_period": 14,
     "atr_mul": 1.0,
     "retrace_mode": "continue",
+    "entry_dir": "each",
     "lot": 2.0,
     "tp": 0.0,
     "sl": 0.0,
